@@ -28,7 +28,7 @@
     "materialui-daterange-picker": "^1.1.92",
     "mathjs": "7.5.1",
     "moment": "2.29.4",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "react": "16.9.0",
     "react-ace": "7.0.4",
     "react-beautiful-dnd": "^13.0.0",
